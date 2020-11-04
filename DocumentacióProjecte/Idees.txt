@@ -1,0 +1,8 @@
+-Moviments.
+-Ilustracions.
+-Tipus de codi emprat.
+-CSS++
+-HTML
+-javascript
+-Extra.
+-Banda sonora.
